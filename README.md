@@ -17,9 +17,9 @@ tapi membangun pemahaman yang kuat dari dasarnya.
 ---
 
 ## 🛠 Teknologi (Berkembang)
-- Bahasa: `Java`, `Python`, `JavaScript`
-- Tools: `Git`, `GitHub`, `VS Code`
-- Sistem Operasi: macOS, Linux (sedang dipelajari)
+- Bahasa: `PHP`, `Python`, `JavaScript`
+- Tools: `Git`, `GitHub`, `VS Code`, `Neovim`
+- Sistem Operasi: macOS, Linux
 
 > Saya lebih fokus memahami *mengapa* sesuatu bekerja, bukan sekadar mengikuti tren.
 
