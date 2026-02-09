@@ -8,23 +8,6 @@ tapi membangun pemahaman yang kuat dari dasarnya.
 
 ---
 
-## 🧠 Sedang Dipelajari
-- Dasar pemrograman & problem solving  
-- Sistem operasi & arsitektur komputer  
-- Teknologi web (frontend & backend dasar)  
-- Interaksi antara hardware, software, dan performa
-
----
-
-## 🛠 Teknologi (Berkembang)
-- Bahasa: `PHP`, `Python`, `JavaScript`
-- Tools: `Git`, `GitHub`, `VS Code`, `Neovim`
-- Sistem Operasi: macOS, Linux
-
-> Saya lebih fokus memahami *mengapa* sesuatu bekerja, bukan sekadar mengikuti tren.
-
----
-
 ## 📚 Proyek
 Sebagian besar repository di sini berisi:
 - Proyek pembelajaran  
