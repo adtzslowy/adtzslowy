@@ -18,17 +18,5 @@ Proyeknya mungkin terlihat sederhana — dan itu memang disengaja.
 
 ---
 
-## 🎯 Tujuan
-- Membangun fondasi teknis yang kuat  
-- Menulis kode yang jelas dan bisa dipertanggungjawabkan  
-- Berkembang menjadi developer yang memahami sistem, bukan hanya sintaks
-
----
-
-## ✍️ Prinsip
-> “Pemahaman yang pelan tapi dalam lebih baik daripada hafalan yang cepat.”
-
----
-
 Terima kasih sudah berkunjung.  
 Profil ini akan terus berkembang seiring proses belajar saya.
