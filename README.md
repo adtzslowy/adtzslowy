@@ -8,15 +8,5 @@ tapi membangun pemahaman yang kuat dari dasarnya.
 
 ---
 
-## 📚 Proyek
-Sebagian besar repository di sini berisi:
-- Proyek pembelajaran  
-- Eksperimen dari perkuliahan  
-- Latihan kecil untuk memperdalam konsep  
-
-Proyeknya mungkin terlihat sederhana — dan itu memang disengaja.
-
----
-
 Terima kasih sudah berkunjung.  
 Profil ini akan terus berkembang seiring proses belajar saya.
